@@ -1,0 +1,14 @@
+C:\Users\babolnai.bence\Desktop\babolnai_bence_dolgozat_250217\bin\Debug\net8.0\babolnai_bence_dolgozat_250217.exe
+C:\Users\babolnai.bence\Desktop\babolnai_bence_dolgozat_250217\bin\Debug\net8.0\babolnai_bence_dolgozat_250217.deps.json
+C:\Users\babolnai.bence\Desktop\babolnai_bence_dolgozat_250217\bin\Debug\net8.0\babolnai_bence_dolgozat_250217.runtimeconfig.json
+C:\Users\babolnai.bence\Desktop\babolnai_bence_dolgozat_250217\bin\Debug\net8.0\babolnai_bence_dolgozat_250217.dll
+C:\Users\babolnai.bence\Desktop\babolnai_bence_dolgozat_250217\bin\Debug\net8.0\babolnai_bence_dolgozat_250217.pdb
+C:\Users\babolnai.bence\Desktop\babolnai_bence_dolgozat_250217\obj\Debug\net8.0\babolnai_bence_dolgozat_250217.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babolnai.bence\Desktop\babolnai_bence_dolgozat_250217\obj\Debug\net8.0\babolnai_bence_dolgozat_250217.AssemblyInfoInputs.cache
+C:\Users\babolnai.bence\Desktop\babolnai_bence_dolgozat_250217\obj\Debug\net8.0\babolnai_bence_dolgozat_250217.AssemblyInfo.cs
+C:\Users\babolnai.bence\Desktop\babolnai_bence_dolgozat_250217\obj\Debug\net8.0\babolnai_bence_dolgozat_250217.csproj.CoreCompileInputs.cache
+C:\Users\babolnai.bence\Desktop\babolnai_bence_dolgozat_250217\obj\Debug\net8.0\babolnai_bence_dolgozat_250217.dll
+C:\Users\babolnai.bence\Desktop\babolnai_bence_dolgozat_250217\obj\Debug\net8.0\refint\babolnai_bence_dolgozat_250217.dll
+C:\Users\babolnai.bence\Desktop\babolnai_bence_dolgozat_250217\obj\Debug\net8.0\babolnai_bence_dolgozat_250217.pdb
+C:\Users\babolnai.bence\Desktop\babolnai_bence_dolgozat_250217\obj\Debug\net8.0\babolnai_bence_dolgozat_250217.genruntimeconfig.cache
+C:\Users\babolnai.bence\Desktop\babolnai_bence_dolgozat_250217\obj\Debug\net8.0\ref\babolnai_bence_dolgozat_250217.dll
